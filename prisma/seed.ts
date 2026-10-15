@@ -13,7 +13,7 @@ const main = async () => {
         slug: "tempero-da-neli",
         description: "O melhor fast food de Santarém.",
         avatarImageUrl:
-          "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQvcNP9rHlEJu1vCY5kLqzjf29HKaeN78Z6pRy",
+          "https://xd90tgazad.ufs.sh/f/r9YwIz1ulNCW2zzEnmkqMQEVNG8FJ5creIKWXb1vO7CLH3T6",
         coverImageUrl:
           "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQac8bHYlkBUjlHSKiuseLm2hIFzVY0OtxEPnw",
       },
