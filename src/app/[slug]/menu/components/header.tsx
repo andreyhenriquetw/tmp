@@ -14,7 +14,7 @@ const RestaurantHeader = ({ restaurant }: RestaurantHeaderProps) => {
   const router = useRouter();
   const handleBackClick = () => router.back();
   return (
-    <div className="relative h-[250px] w-full">
+    <div className="relative h-[210px] w-full">
       <Button
         variant="secondary"
         size="icon"
@@ -27,7 +27,7 @@ const RestaurantHeader = ({ restaurant }: RestaurantHeaderProps) => {
         src={restaurant.coverImageUrl}
         alt={restaurant.name}
         fill
-        className="object-cover"
+        className="object-fill"
       />
       <Button
         variant="secondary"
